@@ -1,0 +1,36 @@
+@media screen and (max-width:480px){
+    .royal{
+        flex-direction: column;
+        justify-content: center;
+    }
+    .texto{
+        width: auto;
+        padding: 35px;
+    }
+    .team{
+        width: auto;
+        flex-direction: column;
+    }
+    .parra{
+        padding-right: 45px;
+    }
+    .botones{
+        flex-direction: column;
+        justify-content: center;
+        align-items: flex-start;
+        gap: 20px;
+    }
+    .learn{
+        margin-left: 0;
+    }
+    .view{
+        margin-left: 0;
+    }
+    .contenidomodal {
+        width: 95%;
+        padding: 10px;
+      }
+      .cerrarmodal {
+        right: 20px;
+      }
+}
